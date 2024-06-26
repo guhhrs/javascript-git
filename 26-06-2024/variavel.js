@@ -7,4 +7,4 @@ let texto = "Este é um exemplo"; // cria uma variável com um valor
 
 console.log(mensagem); 
 console.log(disciplina); 
-console.log(texto); 
+console.log(texto);
