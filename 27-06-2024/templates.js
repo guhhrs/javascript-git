@@ -1,5 +1,4 @@
-let nome = "Gustavo"; 
-let idade = 17; 
+let nome = "Giovanni";
+let idade = 36;
 
-console.log(`Meu nome é ${nome}, e minha idade é ${idade} anos`); 
-
+console.log(`Meu nome é ${nome}, e minha idade é ${idade} anos`);

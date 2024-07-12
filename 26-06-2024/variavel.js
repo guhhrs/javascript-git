@@ -1,10 +1,9 @@
-let mensagem = "olá gustavo!" 
-let nome;  // ele cria uma variável indefinido 
-let disciplina = null; // cria uma variável vazia
-let texto = "Este é um exemplo"; // cria uma variável com um valor
-
-
-
-console.log(mensagem); 
-console.log(disciplina); 
+let mensagem = "Olá Giovanni";
+let nome; //Cria uma variável indefinido
+let disciplina = null; // Cria uma variável vazia
+let texto = "Este é um exemplo"; //cria uma variável com um valor
+ 
+//console.log(mensagem);
+console.log(nome);
+console.log(disciplina);
 console.log(texto);

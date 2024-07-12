@@ -1,20 +1,21 @@
-// inteiro 
-let idadeAluno = 18; 
+// inteiro
+let idadeAluno = 18;
 
-//numeros flutuantes com casa decimais 
-let valorProduto = 5.35; 
+// Números flutuantes com casas decimais
+let valorProduto = 5.35;
 
-//variável de texto, string 
-let nomeAluno = "Gustavo Oliveira"; 
+// variável de texto, String
+let nomeAluno = "Pedro Henrique";
 
-// Booleano 
+// Booleano
 let casado = true;
 
-console.log("idade do aluno " + idadeAluno);
-console.log("R$ " + valorProduto);
-console.log("nome do aluno " + nomeAluno); 
-console.log("casado: " + casado);
+// Array -> conjunto de elementos
+let linguagens = ["Java", "C#", "Python"];
 
-//array --> conjunto de elementos 
-let  linguagem = ["java", "c#", "Python"]; 
-console.table(linguagem[2]);
+console.log("Idade do aluno: " + idadeAluno);
+console.log("R$ " + valorProduto);
+console.log("Nome do aluno: " + nomeAluno);
+console.log("Casado: " + casado);
+console.table(linguagens[2]);
+

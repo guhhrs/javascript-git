@@ -1,5 +1,5 @@
-console.log("teste");
+ //console.log("teste");
 
-console.log("gustavo"); 
+//console.log("Giovanni");
 
-consolele.log("Este é a nossa primeira impressão na tela") 
+console.log("Este é a nossa primeira impresão na tela");

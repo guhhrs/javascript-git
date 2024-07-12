@@ -1,7 +1,7 @@
-let valor = 15; 
+let valor = 15;
 
-if (valor > 10 && valor < 20) {
-    console.log("este valor é valido") 
+if (valor > 16 && valor < 20) {
+    console.log("Este valor é válido");
 } else {
-    console.log("Não é valido")
-} 
+    console.log("Não é válido");
+}

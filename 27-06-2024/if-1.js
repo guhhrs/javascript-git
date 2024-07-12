@@ -1,9 +1,7 @@
-let valor1 = 10;
-let valor2 = 7; 
+let valor = 10;
 
-
-if(valor1 > valor2){  
-    console.log("10 é maior que sete!!")
+if (valor > 15) {
+    console.log("Dez é maior que sete!!");
 } else {
-    console.log("10 é menor que sete"); 
-}  
+    console.log("O valor é menor que 15");
+}
